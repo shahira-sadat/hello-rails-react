@@ -2,7 +2,7 @@
 
 # Hello Rails React
  Created to learn how React and Rails work together.
- 
+
 ## Built With
 ![](https://img.shields.io/badge/-Ruby-red)
 ![](https://img.shields.io/badge/-Rails-red)
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- [x] A code editor like Visual Studio Code with Git and Ruby and Rails.
+- A code editor like Visual Studio Code with Git and Ruby and Rails.
 
 You can check if Git is installed by running the following command in the terminal.
 ```
